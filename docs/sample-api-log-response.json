@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "apiName": "CBS_ACCOUNT_BALANCE",
+  "workItemId": "WI-2026-001234",
+  "requestTimestamp": "2026-06-08T10:15:30",
+  "responseTimestamp": "2026-06-08T10:15:30.245",
+  "responseCode": 200,
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "responseTime": 245
+}
